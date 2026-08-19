@@ -2,12 +2,12 @@
 
 This repository contains my solutions to competitive programming problems, specifically focusing on CSES and Codeforces.
 
-## 📊 Profiles & Progress
+## Profiles & Progress
 
 - **Codeforces**: [YourHandle](https://codeforces.com/profile/YourHandle) (Rating: CurrentRating)
 - **CSES Progress**: 2 / 300 solved (Introductory Problems)
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 competitive-programming/
