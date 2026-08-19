@@ -23,11 +23,11 @@ competitive-programming/
 └── README.md
 ```
 
-## 🛠 Languages Used
+## Languages Used
 
 - C++
 
-## 📝 Rules Followed
+## Rules Followed
 - Committing the same day I solve a problem.
 - Clean final solutions only (no brute force).
 - Meaningful commit messages and explanatory comments.
