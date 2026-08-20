@@ -2,12 +2,12 @@
 
 This repository contains my solutions to competitive programming problems, specifically focusing on CSES and Codeforces.
 
-## 📊 Profiles & Progress
+## Profiles & Progress
 
-- **Codeforces**: [YourHandle](https://codeforces.com/profile/YourHandle) (Rating: CurrentRating)
+- **Codeforces**: [Raj0106](https://codeforces.com/profile/Raj0106) (Rating: CurrentRating)
 - **CSES Progress**: 2 / 300 solved (Introductory Problems)
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 competitive-programming/
@@ -23,11 +23,11 @@ competitive-programming/
 └── README.md
 ```
 
-## 🛠 Languages Used
+## Languages Used
 
 - C++
 
-## 📝 Rules Followed
+## Rules Followed
 - Committing the same day I solve a problem.
 - Clean final solutions only (no brute force).
 - Meaningful commit messages and explanatory comments.
