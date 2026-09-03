@@ -4,8 +4,8 @@ This repository contains my solutions to competitive programming problems, speci
 
 ## Profiles & Progress
 
-- **Codeforces**: [Raj0106](https://codeforces.com/profile/Raj0106) (Rating: CurrentRating)
-- **CSES Progress**: 2 / 300 solved (Introductory Problems)
+- **Codeforces**: [Raj0106](https://codeforces.com/profile/Raj0106) (Rating: CurrentRating) | 13 problems solved
+- **CSES Progress**: 12 / 300 solved (Introductory & Sorting/Searching)
 
 ## Repository Structure
 
