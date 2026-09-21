@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .dark-theme {
+            background-color: #222;
+            color: #fff;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">This is the content area.</div>
+    <button id="toggleBtn">Toggle Theme</button>
+
+    <script>
+        const btn = document.getElementById("toggleBtn");
+        const content = document.getElementById("content");
+
+        btn.addEventListener("click", function() {
+            content.classList.toggle("dark-theme");
+        });
+    </script>
+</body>
+</html>

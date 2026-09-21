@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <input type="text" id="itemInput">
+    <button id="addBtn">Add Item</button>
+    <ul id="itemList"></ul>
+
+    <script>
+        const input = document.getElementById("itemInput");
+        const btn = document.getElementById("addBtn");
+        const list = document.getElementById("itemList");
+
+        btn.addEventListener("click", function() {
+            if (input.value !== "") {
+                const newItem = document.createElement("li");
+                newItem.textContent = input.value;
+                list.appendChild(newItem);
+                input.value = "";
+            }
+        });
+    </script>
+</body>
+</html>
