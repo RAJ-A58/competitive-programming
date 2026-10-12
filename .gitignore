@@ -1,0 +1,29 @@
+# Executables and compiled binaries
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code / IDE settings & caches (optional local files)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
