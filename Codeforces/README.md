@@ -5,13 +5,13 @@ Solutions to problems from [Codeforces](https://codeforces.com/profile/Raj0106) 
 **Handle:** [@Raj0106](https://codeforces.com/profile/Raj0106)  
 **Current Rating:** 1246 (Pupil)  
 **Max Rating:** 1283 (Pupil)  
-**Total Problems Solved:** 28
+**Total Problems Solved:** 30
 
 ---
 
 ## 📑 Solved Problems Index
 
-### Div. 2 — Problem A & B (20 Solved)
+### Div. 2 — Problem A & B (22 Solved)
 
 | Problem Code | Problem Name / Link | Solution File |
 | :---: | :--- | :--- |
@@ -25,6 +25,7 @@ Solutions to problems from [Codeforces](https://codeforces.com/profile/Raj0106) 
 | **151A** | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [`151A.cpp`](Div2_A_B/151A.cpp) |
 | **160A** | [Twins](https://codeforces.com/problemset/problem/160/A) | [`160A.cpp`](Div2_A_B/160A.cpp) |
 | **200B** | [Drinks](https://codeforces.com/problemset/problem/200/B) | [`200B.cpp`](Div2_A_B/200B.cpp) |
+| **217A** | [Ice Skating](https://codeforces.com/problemset/problem/217/A) | [`217A.cpp`](Div2_A_B/217A.cpp) |
 | **313A** | [Ilya and Bank Account](https://codeforces.com/problemset/problem/313/A) | [`313A.cpp`](Div2_A_B/313A.cpp) |
 | **339A** | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [`339A.cpp`](Div2_A_B/339A.cpp) |
 | **405A** | [Gravity Flip](https://codeforces.com/problemset/problem/405/A) | [`405A.cpp`](Div2_A_B/405A.cpp) |
@@ -33,6 +34,7 @@ Solutions to problems from [Codeforces](https://codeforces.com/profile/Raj0106) 
 | **510A** | [Fox And Snake](https://codeforces.com/problemset/problem/510/A) | [`510A.cpp`](Div2_A_B/510A.cpp) |
 | **579A** | [Raising Bacteria](https://codeforces.com/problemset/problem/579/A) | [`579A.cpp`](Div2_A_B/579A.cpp) |
 | **1352A** | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | [`1352A.cpp`](Div2_A_B/1352A.cpp) |
+| **1944A** | [Destroying Bridges](https://codeforces.com/problemset/problem/1944/A) | [`1944A.cpp`](Div2_A_B/1944A.cpp) |
 | **1999A** | [A+B Again?](https://codeforces.com/problemset/problem/1999/A) | [`1999A.cpp`](Div2_A_B/1999A.cpp) |
 | **2256A** | [Contest Problem](https://codeforces.com/problemset) | [`2256A.cpp`](Div2_A_B/2256A.cpp) |
 

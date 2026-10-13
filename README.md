@@ -1,8 +1,8 @@
 # 🚀 Competitive Programming
 
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-1246%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
-[![CSES Solved](https://img.shields.io/badge/CSES-31%20Solved-brightgreen)](https://cses.fi/problemset/)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-59%20Problems-orange)]()
+[![CSES Solved](https://img.shields.io/badge/CSES-33%20Solved-brightgreen)](https://cses.fi/problemset/)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-63%20Problems-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)]()
 
 A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set** and **Codeforces**. Focused on algorithmic efficiency, speed, and continuous daily practice.
@@ -13,20 +13,20 @@ A structured repository containing clean, optimized, and documented solutions to
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1246** (Pupil) *(Max: 1283)* | **28** |
-| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 31 Solved | **31** |
-| **Total** | — | — | **59+** |
+| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1246** (Pupil) *(Max: 1283)* | **30** |
+| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 33 Solved | **33** |
+| **Total** | — | — | **63+** |
 
 ---
 
-## 📚 CSES Problem Set (31 Solved)
+## 📚 CSES Problem Set (33 Solved)
 
 | # | Section | Solved | Status |
 | :---: | :--- | :---: | :---: |
 | 01 | **Introductory Problems** | 14 | 🟢 In Progress |
 | 02 | **Sorting and Searching** | 9 | 🟢 In Progress |
 | 03 | **Dynamic Programming** | 0 | ⚪ Planned |
-| 04 | **Graph Algorithms** | 2 | 🟢 In Progress |
+| 04 | **Graph Algorithms** | 4 | 🟢 In Progress |
 | 05 | **Range Queries** | 1 | 🟢 In Progress |
 | 06 | **Tree Algorithms** | 0 | ⚪ Planned |
 | 07 | **Mathematics** | 2 | 🟢 In Progress |
@@ -46,11 +46,11 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-## ⚔️ Codeforces Solutions (28 Solved)
+## ⚔️ Codeforces Solutions (30 Solved)
 
 | Category | Problems Solved | Highlights |
 | :--- | :---: | :--- |
-| **Div2 A & B** | 20 | Implementation, Greedy, Math, Number Theory, Constructive |
+| **Div2 A & B** | 22 | Implementation, Greedy, Math, Number Theory, Graphs, Constructive |
 | **Div2 C & D** | 8 | Data Structures, Binary Search, Math, Combinatorics |
 
 👉 *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
@@ -65,7 +65,7 @@ competitive-programming/
 │   ├── 01_Introductory/               # 14 problems
 │   ├── 02_Sorting_Searching/          # 9 problems
 │   ├── 03_Dynamic_Programming/
-│   ├── 04_Graph_Algorithms/           # 2 problems
+│   ├── 04_Graph_Algorithms/           # 4 problems
 │   ├── 05_Range_Queries/              # 1 problem
 │   ├── 06_Tree_Algorithms/
 │   ├── 07_Mathematics/                # 2 problems
@@ -81,7 +81,7 @@ competitive-programming/
 │   ├── 17_Additional_Problems_I/
 │   └── 18_Additional_Problems_II/
 ├── Codeforces/
-│   ├── Div2_A_B/                      # 20 problems
+│   ├── Div2_A_B/                      # 22 problems
 │   └── Div2_C_D/                      # 8 problems
 ├── Template.cpp                       # Fast I/O & CP boilerplate
 ├── .gitignore                         # Ignores executables (*.exe) and build files

@@ -2,7 +2,7 @@
 
 This directory contains my solutions to the **[CSES Problem Set](https://cses.fi/problemset/)** in modern C++.
 
-**Total Solved:** 31 / 300+
+**Total Solved:** 33 / 300+
 
 ---
 
@@ -35,8 +35,10 @@ This directory contains my solutions to the **[CSES Problem Set](https://cses.fi
 - [x] [Factory Machines](02_Sorting_Searching/Factory_Machines.cpp)
 - [x] [Subarray Sums I](02_Sorting_Searching/Subarray_sum_1.cpp)
 
-### 04. Graph Algorithms (2 Solved)
+### 04. Graph Algorithms (4 Solved)
 - [x] [Counting Rooms](04_Graph_Algorithms/Counting_rooms.cpp)
+- [x] [Building Roads](04_Graph_Algorithms/Building_Roads.cpp)
+- [x] [Message Route](04_Graph_Algorithms/Message_Route.cpp)
 - [x] [Building Teams](04_Graph_Algorithms/Building_Teams.cpp)
 
 ### 05. Range Queries (1 Solved)
