@@ -1,15 +1,15 @@
-#  Competitive Programming
+# 🚀 Competitive Programming
 
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-1246%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
 [![CSES Solved](https://img.shields.io/badge/CSES-33%20Solved-brightgreen)](https://cses.fi/problemset/)
 [![Total Solved](https://img.shields.io/badge/Total%20Solved-63%20Problems-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)]()
 
-A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set** and **Codeforces**. Focused on algorithmic efficiency, speed, and continuous daily practice.
+A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set**, **Codeforces**, and **Live Contests**. Focused on algorithmic efficiency, speed, and continuous daily practice.
 
 ---
 
-##  Profiles & Live Stats
+## 📊 Profiles & Live Stats
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-##  CSES Problem Set (33 Solved)
+## 📚 CSES Problem Set (33 Solved)
 
 | # | Section | Solved | Status |
 | :---: | :--- | :---: | :---: |
@@ -42,7 +42,7 @@ A structured repository containing clean, optimized, and documented solutions to
 | 17 | **Additional Problems I** | 0 | ⚪ Planned |
 | 18 | **Additional Problems II** | 0 | ⚪ Planned |
 
- *See full breakdown and problem lists in [CSES/README.md](file:///e:/cpp/competitive-programming/CSES/README.md)*
+👉 *See full breakdown and problem lists in [CSES/README.md](file:///e:/cpp/competitive-programming/CSES/README.md)*
 
 ---
 
@@ -53,14 +53,26 @@ A structured repository containing clean, optimized, and documented solutions to
 | **Div2 A & B** | 22 | Implementation, Greedy, Math, Number Theory, Graphs, Constructive |
 | **Div2 C & D** | 8 | Data Structures, Binary Search, Math, Combinatorics |
 
- *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
+👉 *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
 
 ---
 
-##  Repository Structure
+## 🏆 Codeforces Live Contests
+
+Logs and code for live contest rounds and post-contest upsolving.
+
+- **Current / Upcoming:** [Educational Codeforces Round 195](CF%20Contests/Educational_Round%20195/)
+- 👉 *See contest logs and strategy in [CF Contests/README.md](file:///e:/cpp/competitive-programming/CF%20Contests/README.md)*
+
+---
+
+## 📁 Repository Structure
 
 ```text
 competitive-programming/
+├── CF Contests/                       # Live contest logs & submissions
+│   ├── Educational_Round 195/
+│   └── README.md
 ├── CSES/
 │   ├── 01_Introductory/               # 14 problems
 │   ├── 02_Sorting_Searching/          # 9 problems
@@ -90,7 +102,7 @@ competitive-programming/
 
 ---
 
-##  Standards & Best Practices
+## 🛠️ Standards & Best Practices
 
 - **Language**: Modern C++ (C++17 / C++20).
 - **Time & Space Complexity**: Analyzed and optimized to comfortably avoid TLE/MLE.
