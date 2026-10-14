@@ -1,4 +1,4 @@
-# 📚 CSES Problem Set Solutions
+# CSES Problem Set Solutions
 
 This directory contains my solutions to the **[CSES Problem Set](https://cses.fi/problemset/)** in modern C++.
 
@@ -6,7 +6,7 @@ This directory contains my solutions to the **[CSES Problem Set](https://cses.fi
 
 ---
 
-## 📑 Solved Problems Index
+## Solved Problems Index
 
 ### 01. Introductory Problems (14 Solved)
 - [x] [Weird Algorithm](01_Introductory/Weird_algo.cpp)

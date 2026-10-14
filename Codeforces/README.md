@@ -1,4 +1,4 @@
-# ⚔️ Codeforces Solutions
+# Codeforces Solutions
 
 Solutions to problems from [Codeforces](https://codeforces.com/profile/Raj0106) written in C++.
 
@@ -9,7 +9,7 @@ Solutions to problems from [Codeforces](https://codeforces.com/profile/Raj0106) 
 
 ---
 
-## 📑 Solved Problems Index
+## Solved Problems Index
 
 ### Div. 2 — Problem A & B (22 Solved)
 
