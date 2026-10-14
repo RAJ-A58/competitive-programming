@@ -1,4 +1,4 @@
-# 🚀 Competitive Programming
+#  Competitive Programming
 
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-1246%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
 [![CSES Solved](https://img.shields.io/badge/CSES-33%20Solved-brightgreen)](https://cses.fi/problemset/)
@@ -9,7 +9,7 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-## 📊 Profiles & Live Stats
+##  Profiles & Live Stats
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-## 📚 CSES Problem Set (33 Solved)
+##  CSES Problem Set (33 Solved)
 
 | # | Section | Solved | Status |
 | :---: | :--- | :---: | :---: |
@@ -42,7 +42,7 @@ A structured repository containing clean, optimized, and documented solutions to
 | 17 | **Additional Problems I** | 0 | ⚪ Planned |
 | 18 | **Additional Problems II** | 0 | ⚪ Planned |
 
-👉 *See full breakdown and problem lists in [CSES/README.md](file:///e:/cpp/competitive-programming/CSES/README.md)*
+ *See full breakdown and problem lists in [CSES/README.md](file:///e:/cpp/competitive-programming/CSES/README.md)*
 
 ---
 
@@ -53,11 +53,11 @@ A structured repository containing clean, optimized, and documented solutions to
 | **Div2 A & B** | 22 | Implementation, Greedy, Math, Number Theory, Graphs, Constructive |
 | **Div2 C & D** | 8 | Data Structures, Binary Search, Math, Combinatorics |
 
-👉 *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
+ *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 competitive-programming/
@@ -90,7 +90,7 @@ competitive-programming/
 
 ---
 
-## 🛠️ Standards & Best Practices
+##  Standards & Best Practices
 
 - **Language**: Modern C++ (C++17 / C++20).
 - **Time & Space Complexity**: Analyzed and optimized to comfortably avoid TLE/MLE.
