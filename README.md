@@ -2,7 +2,7 @@
 
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-1246%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
 [![CSES Solved](https://img.shields.io/badge/CSES-33%20Solved-brightgreen)](https://cses.fi/problemset/)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-63%20Problems-orange)]()
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-64%20Problems-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)]()
 
 A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set**, **Codeforces**, and **Live Contests**. Focused on algorithmic efficiency, speed, and continuous daily practice.
@@ -13,9 +13,9 @@ A structured repository containing clean, optimized, and documented solutions to
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1246** (Pupil) *(Max: 1283)* | **30** |
+| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1246** (Pupil) *(Max: 1283)* | **31** |
 | **CSES** | [CSES Profile](https://cses.fi/problemset/) | 33 Solved | **33** |
-| **Total** | — | — | **63+** |
+| **Total Practice Problems** | — | — | **64+** |
 
 ---
 
@@ -46,12 +46,15 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-## ⚔️ Codeforces Solutions (30 Solved)
+## ⚔️ Codeforces Solutions (31 Solved)
 
-| Category | Problems Solved | Highlights |
+Organized strictly by problem difficulty and rating brackets:
+
+| Difficulty Bracket | Problems Solved | Highlights |
 | :--- | :---: | :--- |
-| **Div2 A & B** | 22 | Implementation, Greedy, Math, Number Theory, Graphs, Constructive |
-| **Div2 C & D** | 8 | Data Structures, Binary Search, Math, Combinatorics |
+| **Rating 800–1100** | 28 | Fundamentals, Implementation, Greedy, Math, Number Theory, Bitwise |
+| **Rating 1200–1400** | 2 | Graph Traversals (DFS/BFS), Combinatorics, Map / Frequency Counting |
+| **Rating 1500+** | 1 | Advanced Data Structures, Complex Simulation, Hashing |
 
 👉 *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
 
@@ -61,7 +64,7 @@ A structured repository containing clean, optimized, and documented solutions to
 
 Logs and code for live contest rounds and post-contest upsolving.
 
-- **Current / Upcoming:** [Educational Codeforces Round 195](CF%20Contests/Educational_Round%20195/)
+- **Logged Rounds:** [Educational Codeforces Round 195](CF%20Contests/Educational_Round%20195/) (4 problems solved)
 - 👉 *See contest logs and strategy in [CF Contests/README.md](file:///e:/cpp/competitive-programming/CF%20Contests/README.md)*
 
 ---
@@ -71,9 +74,9 @@ Logs and code for live contest rounds and post-contest upsolving.
 ```text
 competitive-programming/
 ├── CF Contests/                       # Live contest logs & submissions
-│   ├── Educational_Round 195/
+│   ├── Educational_Round 195/         # Round 195 solutions (A, B, C, D)
 │   └── README.md
-├── CSES/
+├── CSES/                              # CSES problem set (18 categories)
 │   ├── 01_Introductory/               # 14 problems
 │   ├── 02_Sorting_Searching/          # 9 problems
 │   ├── 03_Dynamic_Programming/
@@ -92,9 +95,11 @@ competitive-programming/
 │   ├── 16_Counting_Problems/
 │   ├── 17_Additional_Problems_I/
 │   └── 18_Additional_Problems_II/
-├── Codeforces/
-│   ├── Div2_A_B/                      # 22 problems
-│   └── Div2_C_D/                      # 8 problems
+├── Codeforces/                        # Codeforces practice problems by rating
+│   ├── Rating_0800_1100/              # 28 problems
+│   ├── Rating_1200_1400/              # 2 problems
+│   ├── Rating_1500_plus/              # 1 problem
+│   └── README.md
 ├── Template.cpp                       # Fast I/O & CP boilerplate
 ├── .gitignore                         # Ignores executables (*.exe) and build files
 └── README.md

@@ -11,22 +11,21 @@ This directory contains my live submissions, contest logs, and post-contest upso
 
 | # | Contest | Date | Solved Live | Upsolved | Notes |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| 1 | [Educational Codeforces Round 195](Educational_Round%20195/) | 2026-10-14 | — | — | First logged round |
+| 1 | [Educational Codeforces Round 195](Educational_Round%20195/) | 2026-10-14 | 4 (A, B, C, D) | — | Solved 4 problems |
 
 ---
 
 ## 📌 Educational Codeforces Round 195
 
 - **Folder:** [`Educational_Round 195/`](Educational_Round%20195/)
-- **Target Problems:**
+- **Problems Solved:**
 
-| Problem | Name | Status | Solution File |
-| :---: | :--- | :---: | :--- |
-| **A** | Problem A | ⏳ Pending | `A.cpp` |
-| **B** | Problem B | ⏳ Pending | `B.cpp` |
-| **C** | Problem C | ⏳ Pending | `C.cpp` |
-| **D** | Problem D | ⏳ Pending | `D.cpp` |
-| **E** | Problem E | ⏳ Pending | `E.cpp` |
+| Problem | Status | Solution File |
+| :---: | :---: | :--- |
+| **A** | ✅ Solved | [`2276A.cpp`](Educational_Round%20195/2276A.cpp) |
+| **B** | ✅ Solved | [`2276B.cpp`](Educational_Round%20195/2276B.cpp) |
+| **C** | ✅ Solved | [`2276C.cpp`](Educational_Round%20195/2276C.cpp) |
+| **D** | ✅ Solved | [`2276D.cpp`](Educational_Round%20195/2276D.cpp) |
 
 ---
 
