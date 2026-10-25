@@ -1,0 +1,31 @@
+{
+  "Codeforces / CP Roadmap Template": {
+    "prefix": ["template", "cf", "solve"],
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "using ll = long long;",
+      "",
+      "void solve() {",
+      "    int n; cin >> n;",
+      "    vector<ll> a(n);",
+      "    for (auto &x : a) cin >> x;",
+      "    // ${1:your logic here}",
+      "}",
+      "",
+      "int main() {",
+      "    // Fast I/O",
+      "    ios::sync_with_stdio(false);",
+      "    cin.tie(nullptr);",
+      "",
+      "    int t = 1;",
+      "    cin >> t;",
+      "    while (t--) {",
+      "        solve();",
+      "    }",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Roadmap C++ Competitive Programming Template"
+  }
+}

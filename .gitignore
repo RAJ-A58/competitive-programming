@@ -23,6 +23,7 @@
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
+!.vscode/cpp.code-snippets
 
 # OS-generated files
 .DS_Store

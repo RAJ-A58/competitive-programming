@@ -100,10 +100,28 @@ competitive-programming/
 │   ├── Rating_1200_1400/              # 2 problems
 │   ├── Rating_1500_plus/              # 1 problem
 │   └── README.md
-├── Template.cpp                       # Fast I/O & CP boilerplate
+├── Template.cpp                       # Fast I/O & CP boilerplate (from Roadmap)
+├── judge.py                           # One-command Local Judge script
+├── judge.bat / judge.ps1              # Local Judge terminal wrappers
 ├── .gitignore                         # Ignores executables (*.exe) and build files
 └── README.md
 ```
+
+---
+
+## ⚖️ Local Judge & Fast Workflow
+
+- **C++ Template**: Located at [`Template.cpp`](Template.cpp). Follows the roadmap boilerplate with `solve()`, fast I/O (`cin.tie(nullptr)`), and `t` test case handling.
+  - *VS Code Snippet*: Type `cf` or `template` inside any `.cpp` file and press `Tab` to expand.
+- **Local Judge**: Compile and run against sample tests in **one command**:
+  - **VS Code Shortcut**: Press `Ctrl+Shift+B` with any problem `.cpp` file active.
+  - **Terminal**: `python judge.py <file.cpp>` or `.\judge.bat <file.cpp>`.
+  - **Interactive Mode**: `python judge.py <file.cpp> -i`.
+  - **Test Case Formats Supported**:
+    - `input.txt` & `expected.txt` (or `output.txt`) in problem folder or root.
+    - Numbered pairs: `in1.txt` & `out1.txt`, `sample1.in` & `sample1.out`, etc.
+    - Multi-test delimiters in `tests.txt` (`=== INPUT ===` / `=== OUTPUT ===`).
+  - **Features**: Automatic compilation with `-O2 -std=c++17`, ms execution timer, TLE detection, colored diff on WA, and zero artifact clutter.
 
 ---
 
