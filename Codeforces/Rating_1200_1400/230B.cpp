@@ -20,7 +20,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    sieve(); // <-- Call sieve() here before answering queries!
+    sieve(); 
 
     int n;
     cin >> n;
