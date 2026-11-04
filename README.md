@@ -1,8 +1,8 @@
 # 🚀 Competitive Programming
 
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-1246%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
-[![CSES Solved](https://img.shields.io/badge/CSES-33%20Solved-brightgreen)](https://cses.fi/problemset/)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-64%20Problems-orange)]()
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-1332%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
+[![CSES Solved](https://img.shields.io/badge/CSES-34%20Solved-brightgreen)](https://cses.fi/problemset/)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-85%2B%20Problems-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)]()
 
 A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set**, **Codeforces**, and **Live Contests**. Focused on algorithmic efficiency, speed, and continuous daily practice.
@@ -13,20 +13,20 @@ A structured repository containing clean, optimized, and documented solutions to
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1246** (Pupil) *(Max: 1283)* | **31** |
-| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 33 Solved | **33** |
-| **Total Practice Problems** | — | — | **64+** |
+| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1332** (Pupil) *(Max: 1345)* | **51** in repo *(40 practice + 11 contest)* / **93+** on profile |
+| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 34 Solved | **34** |
+| **Total Practice & Contest** | — | — | **85+ in Repo** *(127+ overall)* |
 
 ---
 
-## 📚 CSES Problem Set (33 Solved)
+## 📚 CSES Problem Set (34 Solved)
 
 | # | Section | Solved | Status |
 | :---: | :--- | :---: | :---: |
 | 01 | **Introductory Problems** | 14 | 🟢 In Progress |
 | 02 | **Sorting and Searching** | 9 | 🟢 In Progress |
 | 03 | **Dynamic Programming** | 0 | ⚪ Planned |
-| 04 | **Graph Algorithms** | 4 | 🟢 In Progress |
+| 04 | **Graph Algorithms** | 5 | 🟢 In Progress |
 | 05 | **Range Queries** | 1 | 🟢 In Progress |
 | 06 | **Tree Algorithms** | 0 | ⚪ Planned |
 | 07 | **Mathematics** | 2 | 🟢 In Progress |
@@ -42,30 +42,33 @@ A structured repository containing clean, optimized, and documented solutions to
 | 17 | **Additional Problems I** | 0 | ⚪ Planned |
 | 18 | **Additional Problems II** | 0 | ⚪ Planned |
 
-👉 *See full breakdown and problem lists in [CSES/README.md](file:///e:/cpp/competitive-programming/CSES/README.md)*
+👉 *See full breakdown and problem lists in [CSES/README.md](CSES/README.md)*
 
 ---
 
-## ⚔️ Codeforces Solutions (31 Solved)
+## ⚔️ Codeforces Solutions (40 Solved)
 
 Organized strictly by problem difficulty and rating brackets:
 
-| Difficulty Bracket | Problems Solved | Highlights |
+| Difficulty Bracket | Problems Solved | Highlights & Techniques |
 | :--- | :---: | :--- |
-| **Rating 800–1100** | 28 | Fundamentals, Implementation, Greedy, Math, Number Theory, Bitwise |
-| **Rating 1200–1400** | 2 | Graph Traversals (DFS/BFS), Combinatorics, Map / Frequency Counting |
-| **Rating 1500+** | 1 | Advanced Data Structures, Complex Simulation, Hashing |
+| **[Rating 800–1100](Codeforces/Rating_0800_1100/)** | 30 | Fundamentals, Implementation, Greedy, Math, Number Theory, Bitwise |
+| **[Rating 1200–1400](Codeforces/Rating_1200_1400/)** | 8 | Dynamic Programming (2D DP, Pick/No Pick), Sieve, Binary Search, Graph Traversals |
+| **[Rating 1500+](Codeforces/Rating_1500_plus/)** | 2 | Tree Traversals (DFS), Advanced Hashing, Complex Simulation |
 
-👉 *See full breakdown and problem lists in [Codeforces/README.md](file:///e:/cpp/competitive-programming/Codeforces/README.md)*
+👉 *See full breakdown and problem lists in [Codeforces/README.md](Codeforces/README.md)*
 
 ---
 
-## 🏆 Codeforces Live Contests
+## 🏆 Codeforces Live Contests (11 Problems across 3 Rounds)
 
 Logs and code for live contest rounds and post-contest upsolving.
 
-- **Logged Rounds:** [Educational Codeforces Round 195](CF%20Contests/Educational_Round%20195/) (4 problems solved)
-- 👉 *See contest logs and strategy in [CF Contests/README.md](file:///e:/cpp/competitive-programming/CF%20Contests/README.md)*
+- **[Educational Codeforces Round 195 (Div. 2)](CF%20Contests/Educational_Round%20195/)**: 4 problems solved (A, B, C, D) — Rating jump to 1345!
+- **[Codeforces Round 1131 (Div. 3)](CF%20Contests/Codeforces_round_1131/)**: 4 problems solved (A, B, C, D) — Speed & greedy implementation.
+- **[Codeforces Round 2283 / Div. 2](CF%20Contests/Codeforces_round_2283/)**: 3 problems solved (A, B, C) — Tree DP & combinatorics.
+
+👉 *See contest logs and strategy in [CF Contests/README.md](CF%20Contests/README.md)*
 
 ---
 
@@ -73,14 +76,16 @@ Logs and code for live contest rounds and post-contest upsolving.
 
 ```text
 competitive-programming/
-├── CF Contests/                       # Live contest logs & submissions
+├── CF Contests/                       # Live contest logs & submissions (11 problems)
+│   ├── Codeforces_round_1131/         # Round 1131 solutions (A, B, C, D)
+│   ├── Codeforces_round_2283/         # Round 2283 solutions (A, B, C)
 │   ├── Educational_Round 195/         # Round 195 solutions (A, B, C, D)
 │   └── README.md
-├── CSES/                              # CSES problem set (18 categories)
+├── CSES/                              # CSES problem set (34 solved)
 │   ├── 01_Introductory/               # 14 problems
 │   ├── 02_Sorting_Searching/          # 9 problems
 │   ├── 03_Dynamic_Programming/
-│   ├── 04_Graph_Algorithms/           # 4 problems
+│   ├── 04_Graph_Algorithms/           # 5 problems (Round Trip, etc.)
 │   ├── 05_Range_Queries/              # 1 problem
 │   ├── 06_Tree_Algorithms/
 │   ├── 07_Mathematics/                # 2 problems
@@ -95,10 +100,10 @@ competitive-programming/
 │   ├── 16_Counting_Problems/
 │   ├── 17_Additional_Problems_I/
 │   └── 18_Additional_Problems_II/
-├── Codeforces/                        # Codeforces practice problems by rating
-│   ├── Rating_0800_1100/              # 28 problems
-│   ├── Rating_1200_1400/              # 2 problems
-│   ├── Rating_1500_plus/              # 1 problem
+├── Codeforces/                        # Codeforces practice problems by rating (40 solved)
+│   ├── Rating_0800_1100/              # 30 problems
+│   ├── Rating_1200_1400/              # 8 problems (DP, Sieve, Binary Search)
+│   ├── Rating_1500_plus/              # 2 problems (Tree DFS, Advanced Hashing)
 │   └── README.md
 ├── Template.cpp                       # Fast I/O & CP boilerplate (from Roadmap)
 ├── judge.py                           # One-command Local Judge script
