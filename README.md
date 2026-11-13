@@ -2,7 +2,7 @@
 
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-1332%20(Pupil)-blue?logo=codeforces)](https://codeforces.com/profile/Raj0106)
 [![CSES Solved](https://img.shields.io/badge/CSES-34%20Solved-brightgreen)](https://cses.fi/problemset/)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-85%2B%20Problems-orange)]()
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-90%2B%20Problems-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)]()
 
 A structured repository containing clean, optimized, and documented solutions to competitive programming problems from **CSES Problem Set**, **Codeforces**, and **Live Contests**. Focused on algorithmic efficiency, speed, and continuous daily practice.
@@ -13,9 +13,24 @@ A structured repository containing clean, optimized, and documented solutions to
 
 | Platform | Handle | Rating / Rank | Problems Solved |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1332** (Pupil) *(Max: 1345)* | **51** in repo *(40 practice + 11 contest)* / **93+** on profile |
-| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 34 Solved | **34** |
-| **Total Practice & Contest** | — | — | **85+ in Repo** *(127+ overall)* |
+| **Codeforces** | [@Raj0106](https://codeforces.com/profile/Raj0106) | **1332** (Pupil) *(Max: 1345)* | **56** in repo *(+1 upsolve staged)* / **93+** on profile |
+| **CSES** | [CSES Profile](https://cses.fi/problemset/) | 34 Solved | **34** *(+10 sliding window templates)* |
+| **Total Practice Solved** | — | — | **90+ in Repo** *(130+ overall)* |
+
+---
+
+## ⚔️ Codeforces Solutions (56 Solved)
+
+Organized strictly by problem difficulty and rating brackets (contest solutions graduate here directly):
+
+| Difficulty Bracket | Problems Solved | Highlights & Techniques | Folder |
+| :--- | :---: | :--- | :--- |
+| **Rating 800–1100** | 40 | Fundamentals, Implementation, Greedy, Math, Number Theory, Bitwise | [`Codeforces/Rating_0800_1100/`](Codeforces/Rating_0800_1100/) |
+| **Rating 1200–1400** | 13 | Dynamic Programming (2D DP, Pick/No Pick), Sieve, Binary Search, Graph Traversals | [`Codeforces/Rating_1200_1400/`](Codeforces/Rating_1200_1400/) |
+| **Rating 1500+** | 3 | Tree Traversals (DFS), Advanced DP, Simulation & State Machines | [`Codeforces/Rating_1500_plus/`](Codeforces/Rating_1500_plus/) |
+| **Upsolve** | 1 Staged | Contest problems staged for post-contest solving (`2280D.cpp`) | [`Codeforces/Upsolve/`](Codeforces/Upsolve/) |
+
+👉 *See full breakdown and problem lists in [Codeforces/README.md](Codeforces/README.md)*
 
 ---
 
@@ -33,7 +48,7 @@ A structured repository containing clean, optimized, and documented solutions to
 | 08 | **String Algorithms** | 1 | 🟢 In Progress |
 | 09 | **Geometry** | 0 | ⚪ Planned |
 | 10 | **Advanced Techniques** | 0 | ⚪ Planned |
-| 11 | **Sliding Window Problems** | 1 | 🟢 In Progress |
+| 11 | **Sliding Window Problems** | 1 | 🟢 In Progress (10 templates ready) |
 | 12 | **Interactive Problems** | 1 | 🟢 In Progress |
 | 13 | **Bitwise Operations** | 0 | ⚪ Planned |
 | 14 | **Construction Problems** | 0 | ⚪ Planned |
@@ -46,29 +61,16 @@ A structured repository containing clean, optimized, and documented solutions to
 
 ---
 
-## ⚔️ Codeforces Solutions (40 Solved)
+## 🏆 Codeforces Contests Log
 
-Organized strictly by problem difficulty and rating brackets:
+Summary of live contest rounds and historical performance:
 
-| Difficulty Bracket | Problems Solved | Highlights & Techniques |
-| :--- | :---: | :--- |
-| **[Rating 800–1100](Codeforces/Rating_0800_1100/)** | 30 | Fundamentals, Implementation, Greedy, Math, Number Theory, Bitwise |
-| **[Rating 1200–1400](Codeforces/Rating_1200_1400/)** | 8 | Dynamic Programming (2D DP, Pick/No Pick), Sieve, Binary Search, Graph Traversals |
-| **[Rating 1500+](Codeforces/Rating_1500_plus/)** | 2 | Tree Traversals (DFS), Advanced Hashing, Complex Simulation |
+- **Educational Round 195 (Div. 2)**: 4 problems solved (A, B, C, D) — Rating jump to 1345!
+- **Round 1131 (Div. 3)**: 4 problems solved (A, B, C, D) — Fast speed & greedy implementation.
+- **Round 2283 / Div. 2**: 3 problems solved (A, B, C) — Tree DP & combinatorics.
+- **Round 1133 (Div. 2)**: 4 problems solved (A, B, C, E) — Solved 4 in Div. 2; D staged in Upsolve.
 
-👉 *See full breakdown and problem lists in [Codeforces/README.md](Codeforces/README.md)*
-
----
-
-## 🏆 Codeforces Live Contests (11 Problems across 3 Rounds)
-
-Logs and code for live contest rounds and post-contest upsolving.
-
-- **[Educational Codeforces Round 195 (Div. 2)](CF%20Contests/Educational_Round%20195/)**: 4 problems solved (A, B, C, D) — Rating jump to 1345!
-- **[Codeforces Round 1131 (Div. 3)](CF%20Contests/Codeforces_round_1131/)**: 4 problems solved (A, B, C, D) — Speed & greedy implementation.
-- **[Codeforces Round 2283 / Div. 2](CF%20Contests/Codeforces_round_2283/)**: 3 problems solved (A, B, C) — Tree DP & combinatorics.
-
-👉 *See contest logs and strategy in [CF Contests/README.md](CF%20Contests/README.md)*
+👉 *See contest history and problem links in [CF Contests/README.md](CF%20Contests/README.md)*
 
 ---
 
@@ -76,12 +78,9 @@ Logs and code for live contest rounds and post-contest upsolving.
 
 ```text
 competitive-programming/
-├── CF Contests/                       # Live contest logs & submissions (11 problems)
-│   ├── Codeforces_round_1131/         # Round 1131 solutions (A, B, C, D)
-│   ├── Codeforces_round_2283/         # Round 2283 solutions (A, B, C)
-│   ├── Educational_Round 195/         # Round 195 solutions (A, B, C, D)
+├── CF Contests/                       # Contest history & round logs
 │   └── README.md
-├── CSES/                              # CSES problem set (34 solved)
+├── CSES/                              # CSES problem set (18 categories, 34 solved)
 │   ├── 01_Introductory/               # 14 problems
 │   ├── 02_Sorting_Searching/          # 9 problems
 │   ├── 03_Dynamic_Programming/
@@ -92,22 +91,19 @@ competitive-programming/
 │   ├── 08_String_Algorithms/          # 1 problem
 │   ├── 09_Geometry/
 │   ├── 10_Advanced_Techniques/
-│   ├── 11_Sliding_Window_Problems/    # 1 problem
+│   ├── 11_Sliding_Window_Problems/    # 1 solved + 10 templates ready
 │   ├── 12_Interactive_Problems/       # 1 problem
-│   ├── 13_Bitwise_Operations/
-│   ├── 14_Construction_Problems/
-│   ├── 15_Advanced_Graph_Problems/
-│   ├── 16_Counting_Problems/
-│   ├── 17_Additional_Problems_I/
-│   └── 18_Additional_Problems_II/
-├── Codeforces/                        # Codeforces practice problems by rating (40 solved)
-│   ├── Rating_0800_1100/              # 30 problems
-│   ├── Rating_1200_1400/              # 8 problems (DP, Sieve, Binary Search)
-│   ├── Rating_1500_plus/              # 2 problems (Tree DFS, Advanced Hashing)
+│   └── ...
+├── Codeforces/                        # All practice & contest problems organized by rating
+│   ├── Rating_0800_1100/              # 40 problems
+│   ├── Rating_1200_1400/              # 13 problems (DP, Sieve, Binary Search, Trees)
+│   ├── Rating_1500_plus/              # 3 problems (2A, 580C, 2280E)
+│   ├── Upsolve/                       # Contest upsolve staging (2280D.cpp)
 │   └── README.md
 ├── Template.cpp                       # Fast I/O & CP boilerplate (from Roadmap)
 ├── judge.py                           # One-command Local Judge script
 ├── judge.bat / judge.ps1              # Local Judge terminal wrappers
+├── GEMINI.md                          # Repository workflow & organization rules
 ├── .gitignore                         # Ignores executables (*.exe) and build files
 └── README.md
 ```
